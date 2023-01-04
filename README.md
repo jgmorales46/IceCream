@@ -1,8 +1,9 @@
 # IceCream
 -
 -
-Figma template:
-https://www.figma.com/file/q1ByTQ3xVmyaC2wphwAeRs/IceCream-En?node-id=70748%3A196&t=WJGvqcc0rF49YXGG-0
+-
+Figma template: 
+https://www.figma.com/file/DsBItegzZlMGYGXd9PMmx3/IceCream-En-(Copy)?node-id=0%3A1&t=jfGvowcni7XhJHmH-0
 -
 -
 -
