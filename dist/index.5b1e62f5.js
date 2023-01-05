@@ -1,6 +1,6 @@
 $(function() {
-    $("*[include-html]").each(function() {
-        var t = $(this).attr("include-html"), u = this.id;
+    $("*[include]").each(function() {
+        var t = $(this).attr("include"), u = this.id;
         jQuery.ajax({
             url: t,
             success: function(t) {
